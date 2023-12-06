@@ -1,3 +1,7 @@
 .vscode/*
 
 build/*
+
+dist/*
+picarx.egg-info/*
+picarx/__pycache__/*
